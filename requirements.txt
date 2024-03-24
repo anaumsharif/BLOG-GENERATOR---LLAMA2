@@ -1,0 +1,9 @@
+sentence-transformers
+uvicorn 
+ctransformers
+fastapi
+ipykernel 
+langchain 
+python-box
+streamlit 
+#  conda activate "D:\CODE\LLM\BLOG Generation App\vllm"
